@@ -1,0 +1,9 @@
+body {
+	background: #FFFFFF;
+	font-family: Helvetica;
+	color: #FC4349;
+}
+div img {
+	float: left;
+	padding: 10px;
+}
